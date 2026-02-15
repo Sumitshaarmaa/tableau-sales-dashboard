@@ -36,13 +36,13 @@ These datasets were joined and modeled to analyze sales performance across custo
 
 ## 🔹 Dashboard Overview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## 🔹 Filters
 
-![Filters](filters-panel.png)
+![Filters](Filters.png)
 
 ---
 
